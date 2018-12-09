@@ -1,0 +1,4 @@
+docker build -t matthewabq/twistlock-fargate:18_11 .
+docker push matthewabq/twistlock-fargate:18_11
+
+
